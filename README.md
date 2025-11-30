@@ -62,8 +62,13 @@ It improves workflows by providing structured modules, automated notifications, 
 ---
 
 ## 🖼️ Screenshot Gallery 
+![AI Dashboard](https://raw.githubusercontent.com/Asma2528/FinalYearProject-LabStockEase/main/screenshots/WhatsApp%20Image%202025-11-02%20at%202.55.13%20PM.jpeg)
+![AI Dashboard 2](https://raw.githubusercontent.com/Asma2528/FinalYearProject-LabStockEase/main/screenshots/WhatsApp%20Image%202025-11-02%20at%202.55.42%20PM.jpeg)
+![Notifications](https://raw.githubusercontent.com/Asma2528/FinalYearProject-LabStockEase/main/screenshots/WhatsApp%20Image%202025-11-02%20at%202.56.11%20PM.jpeg)
+![Class Dashboard](https://raw.githubusercontent.com/Asma2528/FinalYearProject-LabStockEase/main/screenshots/WhatsApp%20Image%202025-11-02%20at%202.56.46%20PM.jpeg)
+![Class Dashboard 2](https://raw.githubusercontent.com/Asma2528/FinalYearProject-LabStockEase/main/screenshots/WhatsApp%20Image%202025-11-02%20at%203.00.10%20PM.jpeg)
 
-All screenshots of the system — including dashboards, modules, processes, and analytics — are available here:
+Other screenshots of the system — including dashboards, modules, processes, and analytics — are available here:
 
 👉 **[Click to View Entire Gallery](./screenshots)**
 
